@@ -1,0 +1,16 @@
+.myPic {
+  text-align: center;
+}
+a:onhover{ color:#ffffff; }
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px;
+}
+.col-md-3 {
+  border-radius: 25px
+  background-color: #7E8D85 ;
+  padding: 10px ;
+  border: 3px #4D5950 ;
+  color: #4D5950;
+} 
